@@ -86,8 +86,14 @@
 .neo {
     font-family: "Neothic", 'Times New Roman', Times, serif;
     color:white;
-    transform: scaleY(2.5) scale(1.5);
+    transform: scaleY(2.65) scale(1.75);
     letter-spacing: 20px;
+}
+.charnames div {
+    margin-left:14px;
+    font-size:x-large;;
+    color:grey;
+    font-style:italic;
 }
 .neosmall {
     font-family: "Neothic", 'Times New Roman', Times, serif;
