@@ -66,6 +66,11 @@
     font-family:"YesevaOne";
     src: url("fonts/YesevaOne.ttf");
 }
+}
+@font-face {
+    font-family:"Neothic";
+    src: url("fonts/Neothic.ttf");
+}
 @font-face {
     font-family:"Roboto-Bold";
     src: url("fonts/Roboto-Bold.ttf");
@@ -77,6 +82,16 @@
 
 .yes{
 	font-family:"YesevaOne",Arial,sans-serif !important;
+}
+.neo {
+    font-family: "Neothic", 'Times New Roman', Times, serif;
+    color:white;
+    transform: scaleY(2.5) scale(1.5);
+    letter-spacing: 20px;
+}
+.neosmall {
+    font-family: "Neothic", 'Times New Roman', Times, serif;
+    color:white;
 }
 .rob{
 	font-family:"Roboto-Bold",Arial,sans-serif !important;
