@@ -86,8 +86,9 @@
 .neo {
     font-family: "Neothic", 'Times New Roman', Times, serif;
     color:white;
-    transform: scaleY(2.65) scale(1.75);
-    letter-spacing: 20px;
+    transform: scaleY(2.5);
+    font-size: 4.4vw;
+    letter-spacing: 35px;
 }
 .charnames div {
     margin-left:14px;
